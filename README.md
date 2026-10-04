@@ -1,23 +1,29 @@
-# 🔥 Conversor de Temperatura em Python 🌡️
+# 🌡️ Conversor de Temperatura em Python
 
-Este é um simples programa em Python que realiza conversão de temperaturas entre Celsius, Fahrenheit e Kelvin.
+Projeto de fundamentos para conversão entre Celsius, Fahrenheit e Kelvin.
 
-## 🚀 Funcionalidades
+## Objetivo
 
-- Converter Celsius para Fahrenheit e Kelvin
-- Converter Fahrenheit para Celsius e Kelvin
-- Converter Kelvin para Celsius e Fahrenheit
+Praticar funções, fórmulas matemáticas e validação de opções do usuário.
 
-## 🐍 Requisitos
+## Funcionalidades
 
-- Python 3.x
+- Celsius ↔ Fahrenheit
+- Celsius ↔ Kelvin
+- Fahrenheit ↔ Kelvin
 
-> Nenhuma biblioteca externa é necessária.
+## Tecnologia
 
-## 📦 Instalação
+**Python**
 
-Clone este repositório com o comando:
+## Como explicar em entrevista
 
-```bash
-git clone https://github.com/DFM210383/Conversor de Temperatura.git
-cd Conversor de Temperatura
+> "É um projeto de fundamentos. Usei fórmulas conhecidas para praticar funções, entrada de dados e transformação de valores em Python."
+
+## Papel no portfólio
+
+Registro de aprendizado inicial em lógica e Python.
+
+## Autor
+
+**Daniel Fernando Martins**
